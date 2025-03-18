@@ -14,19 +14,14 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hi!  My name is Jerry Huang. I am in CMU MISM-16.
 It is very interesting to study the course of Telling Story with Data since building up meaningful data graphics is very important for viewers.
 It may be helpful to my future career goal. I would like to be project/product manager in the future.
+Fun things: Red Hot Chili Pepper is my favorite band
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to correctly do data observation
+2. Learn how to effectively create meaningful, clear, understandable graphics for viewers.
+3. Understand different purpose from each graphic.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
