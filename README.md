@@ -30,7 +30,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ### Telling Story with Data - Assignment 1: 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
-### Telling Story with Data -  Assignment 2::
+### Telling Story with Data -  Assignment 2:
 
 ### Telling Story with Data - Assignment 3: 
 
