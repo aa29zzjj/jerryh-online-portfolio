@@ -28,8 +28,17 @@ Fun things: Red Hot Chili Pepper is my favorite band
 ## Assignment:
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-### Telling Story with Data - Assignment 1: 
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
+### Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
+#### Part 1: Working with web-based visualization tools and data
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz0000000000000');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/app/profile/tzu.chieh.huang/viz/1_17425420608260/GeneralgovernmentdebtofGDP2023?publish=yes';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 ### Telling Story with Data -  Assignment 2:
 
 ### Telling Story with Data - Assignment 3: 
