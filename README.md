@@ -21,7 +21,7 @@ Fun things: Red Hot Chili Pepper is my favorite band
 1. How to correctly do data observation
 2. Learn how to effectively create meaningful, clear, understandable graphics for viewers.
 3. Understand different purpose from each graphic.
-[Part I Graphic](https://public.tableau.com/app/profile/tzu.chieh.huang/viz/1_17425420608260/GeneralgovernmentdebtofGDP2023?publish=yes)
+
 
 # Portfolio
 
@@ -30,7 +30,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ### Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
 #### Part 1: Working with web-based visualization tools and data
-
+[Part I Graphic](https://public.tableau.com/app/profile/tzu.chieh.huang/viz/1_17425420608260/GeneralgovernmentdebtofGDP2023?publish=yes)
 
 ### Telling Story with Data -  Assignment 2:
 
