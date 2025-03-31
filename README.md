@@ -42,7 +42,8 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ### Telling Story with Data -  Assignment: Critique and redesign
 ## 2025 Steam Top 100 Played Games by Type
-[![Click to view Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep3/Sheet1/1_rss.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1)
+[![Click to view dashboard](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
