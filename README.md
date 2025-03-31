@@ -30,7 +30,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ### Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
 #### Part 2: Working with Tableau
-[![Average Government Debt](https://public.tableau.com/static/images/1_/1_17425420608260/GeneralgovernmentdebtofGDP2023/1.png)](https://public.tableau.com/views/1
+[![Average Government Debt](https://public.tableau.com/static/images/1_/1_17425420608260/GeneralgovernmentdebtofGDP2023/1.png)]
 
 
 
@@ -41,7 +41,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 
 ### Telling Story with Data -  Assignment: Critique and redesign
-[![2025 Steam Top 100 Played Games' Current Players in Each type of Game](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1#2)
+[![2025 Steam Top 100 Played Games' Current Players in Each type of Game](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1#2.png)
 
 ### Telling Story with Data - Assignment 3: 
 
