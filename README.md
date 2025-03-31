@@ -36,12 +36,23 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ##### Part 3: Create your own visualization
 [![Average Government Debt](https://public.tableau.com/static/images/1_/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023/1.png)](https://public.tableau.com/views/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023)
-
-
-
-
+  
+  
+  
+  
 ### Telling Story with Data -  Assignment: Critique and redesign
 ## 2025 Steam Top 100 Played Games by Type
+Thought:
+To deal with the data of Steam Top 100 games, I divided the games into three categories:
+
+1. Team-based: Required more than 2 players (for each team) to play. Competing with other team.
+2. PVP: person versus person 
+3. Co-op: No competition, cooperating with each player.
+4. Single player: only 1 person can play the game.
+
+Then, I calculate each category's current players to see what is the most popular category in Steam. 
+By doing so, viewers can check what type of game is the most popular on Steam to check what kind of customers are attracted by Steam's games.
+Otherwise, I will point out the top 3 games in each category, so it is also a good recommendation graphic for players.
 [![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep3/Sheet1/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1)
 
 
