@@ -41,7 +41,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 
 ### Telling Story with Data -  Assignment: Critique and redesign
-[![2025 Steam Top 100 Played Games' Current Players in Each type of Game](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1#2.png)
+## 2025 Steam Top 100 Played Games by Type
+
+[![Click to view interactive Tableau dashboard](assets/tableau_chart.png)](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1)
+
 
 ### Telling Story with Data - Assignment 3: 
 
