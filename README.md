@@ -38,8 +38,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 [![Average Government Debt](https://public.tableau.com/static/images/1_/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023/1.png)](https://public.tableau.com/views/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023)
 
 
+
+
 ### Telling Story with Data -  Assignment: Critique and redesign
-[![2025 Steam Top 100 Played Games' Current Players in Each type of Game.](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1#2)
+[![2025 Steam Top 100 Played Games' Current Players in Each type of Game](https://public.tableau.com/app/profile/jerry.huang4443/viz/AssignmentCritiqueandredesignStep3/Sheet1#2)
 
 ### Telling Story with Data - Assignment 3: 
 
