@@ -44,8 +44,28 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ### Step 1: choose a data visualization from MakeoverMonday
 I chose [Steam Top 100 Played Games](https://store.steampowered.com/charts/mostplayed) as my data visualization source from [MakeoverMondy](https://makeovermonday.co.uk/)
 
-The original data source from Steam:
- [View Live Steam Top 100](https://store.steampowered.com/charts/mostplayed)
+### Step 2: critique the data visualization
+Rate each speciality in the original data visualization:
+1. Usefulness.  Is it useful for the intended audience?  Does it communicate valuable information? 9 out of 10
+2. Completeness.  Does the visualization have everything necessary to make it understandable? 7 out of 10
+3. Perceptibility.  Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons? 6 out of 10
+4. Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct? 10 out of 10
+5. Intuitiveness.  Is it easy to understand and clearly communicates the information?  If unfamiliar, does it include easy to understand instructions on how to interpret it? 9 out of 10
+6. Aesthetics.  It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like?  Is it somewhere in the middle - pleasing but otherwise not distracting to look at? 8 out of 10
+7. Engagement.  Does it lead the audience to learn more about the topic?  Does it inspire the audience to talk about the data or share it with others? 10 out of 10
+
+
+8. Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?
+
+The popularity of Steam games are arranged by current players (good). However, we do not know what kind of the game can be more attractive to customers by the provide data (bad).
+
+9. Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+
+The primary audience of this tool will be video game players. The visualization is effective for them because they can review the current players of each game to decide which video games they would like to try.
+
+10. Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next?
+
+I will categorize the Steam Top 100 games by genre (e.g., team-based, single-player) and create a bar chart for each category to highlight which types of games are most attractive to Steam users. The popularity of each category will be represented by the number of current players for each game. This approach allows the audience to easily identify the top 3 popular games in their preferred type and view recommendations displayed on the chart. Overall, it helps viewers quickly access the information they’re looking for in a clear and visual format. Besides, the viewers who want to design games on Steam can figure out the market in which Steam is popular by graphics, which shows how many current players are in each type of game.
 
 ### Step 3: sketch out a solution - 2025 Steam Top 100 Played Games by Type
 Thought:
