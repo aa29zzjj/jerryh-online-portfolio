@@ -56,7 +56,8 @@ Otherwise, I will point out the top 3 games in each category, so it is also a go
 [![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep3/Sheet1/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1)
 
 ## Steph 5: 2025 Steam Top 100 Played Games by Type
-<iframe src="https://public.tableau.com/views/AssignmentCritiqueandredesignStep5/Sheet2?:embed=y&:display_count=yes" width="100%" height="600px"></iframe>
+[![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep5/Sheet2/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep5/Sheet2)
+
 
 
 
