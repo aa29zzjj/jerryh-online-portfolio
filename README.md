@@ -41,7 +41,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
   
   
 ### Telling Story with Data -  Assignment: Critique and redesign
-## 2025 Steam Top 100 Played Games by Type
+## Step 3: 2025 Steam Top 100 Played Games by Type
 Thought:
 To deal with the data of Steam Top 100 games, I divided the games into three categories:
 
@@ -55,6 +55,8 @@ By doing so, viewers can check what type of game is the most popular on Steam to
 Otherwise, I will point out the top 3 games in each category, so it is also a good recommendation graphic for players.
 [![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep3/Sheet1/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1)
 
+## Steph 5: 2025 Steam Top 100 Played Games by Type
+<iframe src="https://public.tableau.com/views/AssignmentCritiqueandredesignStep5/Sheet2?:embed=y&:display_count=yes" width="100%" height="600px"></iframe>
 
 
 
