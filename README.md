@@ -42,7 +42,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
   
 ## Telling Story with Data -  Assignment: Critique and redesign
 ### Step 1: choose a data visualization from MakeoverMonday
-I choose [![Steam Top 100 Played Games](https://store.steampowered.com/charts/mostplayed)] as my data data visualization source from [![MakeoverMondy](https://makeovermonday.co.uk/)]
+I chose [Steam Top 100 Played Games](https://store.steampowered.com/charts/mostplayed) as my data visualization source from [MakeoverMondy](https://makeovermonday.co.uk/)
 
 The original data source from Steam:
  [View Live Steam Top 100](https://store.steampowered.com/charts/mostplayed)
