@@ -1,4 +1,4 @@
-| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](https://aa29zzjj.github.io/jerryh-online-portfolio/dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # jerryh-online-portfolio
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
