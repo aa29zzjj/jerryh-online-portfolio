@@ -25,23 +25,29 @@ Fun things: Red Hot Chili Pepper is my favorite band
 
 # Portfolio
 
-## Assignment:
+# Assignment:
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-### Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
-#### Part 2: Working with Tableau
+## Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
+### Part 2: Working with Tableau
 [![Average Government Debt](https://public.tableau.com/static/images/1_/1_17425420608260/GeneralgovernmentdebtofGDP2023/1.png)]
 
 
 
-##### Part 3: Create your own visualization
+### Part 3: Create your own visualization
 [![Average Government Debt](https://public.tableau.com/static/images/1_/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023/1.png)](https://public.tableau.com/views/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023)
   
   
   
   
-### Telling Story with Data -  Assignment: Critique and redesign
-## Step 3: 2025 Steam Top 100 Played Games by Type
+## Telling Story with Data -  Assignment: Critique and redesign
+### Step 1: choose a data visualization from MakeoverMonday
+I choose [![Steam Top 100 Played Games](https://store.steampowered.com/charts/mostplayed)] as my data data visualization source from [![MakeoverMondy](https://makeovermonday.co.uk/)]
+
+The original data source from Steam:
+ [View Live Steam Top 100](https://store.steampowered.com/charts/mostplayed)
+
+### Step 3: sketch out a solution - 2025 Steam Top 100 Played Games by Type
 Thought:
 To deal with the data of Steam Top 100 games, I divided the games into three categories:
 
@@ -55,7 +61,7 @@ By doing so, viewers can check what type of game is the most popular on Steam to
 Otherwise, I will point out the top 3 games in each category, so it is also a good recommendation graphic for players.
 [![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep3/Sheet1/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep3/Sheet1)
 
-## Steph 5: 2025 Steam Top 100 Played Games by Type
+### Steph 5: Build your solution - 2025 Steam Top 100 Played Games by Type
 [![Click to view the interactive Tableau dashboard](https://public.tableau.com/static/images/As/AssignmentCritiqueandredesignStep5/Sheet2/1.png)](https://public.tableau.com/views/AssignmentCritiqueandredesignStep5/Sheet2)
 
 
