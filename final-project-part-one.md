@@ -1,19 +1,35 @@
 | [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+# Topic: The Shrinking Population of Pennsylvania
+> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
+
+I have been in US for 6 years, and I have been in Pennsylvania for 5 years, which concludes my whole college & master life.
+Although urban centers in Pennsylvania like Pittsburgh and Philadelphia continue to develop, many towns across the state are shrinking - in population, jobs, and services.
+This makes me want to focus on this topic to see why there are more people is leaving from Pennsylvania to other states. Through a combination of data visualization and storytelling, I will present this project by relative data that will highlight:
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+1. What is the top 5 towns in Pennsylvania that are shrinking the fastest
+
+2. What key factors (e.g. job loss, aging population, lack of amenities) correlate with decline
+
+3. What life looks like in these “invisible cities” today
+
+The purpose of this topic is to raise awareness about these communities often lost in big-picture state or national statistics. I would like to let the people who live in Pennsylvania to understand that: What is the key factor that makes shrinking population, and how can we attract more people to decide to stay in Pennsylvania.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+1. Bar chart to every years' total population, every bar chart is combined to every town in Pennsylvania.
+Example sketch is shown below (Made by [colab](https://colab.research.google.com/)):
+![image](https://github.com/user-attachments/assets/107a3d17-34b7-451e-ad8d-0fa867924582)
+
+Note: this is the initial sketches. Not the actual sketch.
+
+3. P
+
+4. 
 
 Text here...
 
