@@ -58,8 +58,9 @@ Available Data Appearance:
 ![image](https://github.com/user-attachments/assets/9614bfcc-9fe4-46d0-998d-8654357262bc)
 
 
-Use the United States Census to find the total population in each Pennsylvania town, and the average annual salary in each PA town.
+Use the United States Census to find the total population in each Pennsylvania town, and type the citizen for each year to analyze the main living population, and number of shrinking population.
 Source: [United States Census](https://data.census.gov/)
+
 Data used:
 1. ACS Demographic and Housing Estimates
 Available Data Appearance:
