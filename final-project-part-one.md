@@ -10,8 +10,6 @@ Although urban centers in Pennsylvania like Pittsburgh and Philadelphia continue
 This makes me want to focus on this topic to see why there are more people is leaving from Pennsylvania to other states. Through a combination of data visualization and storytelling, I will present this project by relative data that will highlight:
 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
 1. What is the top 5 towns in Pennsylvania that are shrinking the fastest
 
 2. What key factors (e.g. job loss, aging population, lack of amenities) correlate with decline
@@ -27,32 +25,63 @@ Example sketch is shown below (Made by [colab](https://colab.research.google.com
 
 Note: this is the initial sketches. Not the actual sketch.
 
-3. P
+2. A line graph that shows the average annual salary in each Pennsylvania town.
+Example sketch is shown below (Made by [colab](https://colab.research.google.com/)):
+![image](https://github.com/user-attachments/assets/4f686d75-7d56-4d09-81d6-8cd1d15d8ee6)
 
-4. 
+Note: this is the initial sketches. Not the actual sketch.
 
-Text here...
+3.  Horizontal bar chart for unemployment rate for each Pennsylvania town
+Example sketch is shown below (Made by [colab](https://colab.research.google.com/)):
+![image](https://github.com/user-attachments/assets/0504fa6c-8218-4a82-b88a-599250d49a62)
+Note: this is the initial sketches. Not the actual sketch.
+
+4. A bar chart grapic for percentage Enrollment change in Pennsylvania
+Example sketch is shown below (Made by [colab](https://colab.research.google.com/)):
+![image](https://github.com/user-attachments/assets/2c7e1707-7229-4dfd-8a03-d1b9f6973f3b)
+Note: this is the initial sketches. Not the actual sketch.
+
+5. A bar chart graphic for the safety score in Pennsylvania town
+Example sketch is shown below (Made by [colab](https://colab.research.google.com/)):
+![image](https://github.com/user-attachments/assets/70554cd8-328e-41ab-b082-db4d8009400c)
+Note: this is the initial sketches. Not the actual sketch.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I use these data source to:
+1. Find out which are the top 5 shrinking town in PA
+2. What is the main factor that cause the population shrinking in PA?
+3. What can be the improvement for increasing PA's population?
 
-Text here...
+Use the source from Pennsylvania State Data Center to find the shrinking city
+Source: [Pennsylvania State Data Center](chrome-extension://bdfcnmeidppjeaggnmidamkiddifkdib/viewer.html?file=https://pasdc.hbg.psu.edu/sites/default/files/resources/2020-municipal-population-estimates-May_2021.pdf?utm_source=chatgpt.com)
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Use United States Census to find the total population in each Pennsylvania town, and the average annual salary in each PA town.
+Source: [United States Census](https://data.census.gov/)
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Use Pennsylvania Department of Education to find out the enrollment rate for each town.
+Source: [Pennsylvania Department of Education](https://www.pa.gov/agencies/education.html)
+
+Use Bureau of Labor Statistics to get the unemployment rate for each city in PA.
+Source: [Bureau of Labor Statistics](https://download.bls.gov/pub/time.series/la/)
+
+Use Uniform Crime Report System to calculate the safety score in each PA town.
+Source: [Uniform Crime Report System](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index)
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will use use Shorthand for the storytelling platform, combined with: 
+1. Tableau to initialize the table format
+2. Using [colab](https://colab.research.google.com/) to make the graphic design more specific.
+3. upload to github profile
 
-Text here...
-
+Finally, a polished Shorthand page with embedded, interactive charts and visual storytelling will be completed
 ## References
-_List any references you used here._
+Data source: 
+[Pennsylvania State Data Center](chrome-extension://bdfcnmeidppjeaggnmidamkiddifkdib/viewer.html?file=https://pasdc.hbg.psu.edu/sites/default/files/resources/2020-municipal-population-estimates-May_2021.pdf?utm_source=chatgpt.com)
+[United States Census](https://data.census.gov/)
+[Pennsylvania Department of Education](https://www.pa.gov/agencies/education.html)
+[Bureau of Labor Statistics](https://download.bls.gov/pub/time.series/la/)
+[Uniform Crime Report System](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I use ChatGPT to find the available data source, deciding the best graph for presenting to viewers.
