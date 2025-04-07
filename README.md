@@ -127,9 +127,6 @@ Click the image to access the graphic:
 
 
 
-
-### Telling Story with Data - Assignment 3: 
-
 ## Telling Story with Data - Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
