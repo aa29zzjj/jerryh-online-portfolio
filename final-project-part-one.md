@@ -3,7 +3,7 @@
 
 
 # Topic: The Shrinking Population of Pennsylvania
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
+
 
 I have been in US for 6 years, and I have been in Pennsylvania for 5 years, which concludes my whole college & master life.
 Although urban centers in Pennsylvania like Pittsburgh and Philadelphia continue to develop, many towns across the state are shrinking - in population, jobs, and services.
