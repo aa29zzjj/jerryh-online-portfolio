@@ -52,41 +52,55 @@ I use these data sources to:
 2. What is the main factor that causes the population to shrink in PA?
 3. What can be the improvement for increasing PA's population?
 
-Use the source from the Pennsylvania State Data Center to find the shrinking city
+Use the source from the Pennsylvania State Data Center to find the shrinking city.
+The report shows several values that refer to population increase/decrease rate.
+From the map table, I will use chatGPT to estimate the rate for each city to estimate the population increase/decrease rate.
 Source: [Pennsylvania State Data Center](chrome-extension://bdfcnmeidppjeaggnmidamkiddifkdib/viewer.html?file=https://pasdc.hbg.psu.edu/sites/default/files/resources/2020-municipal-population-estimates-May_2021.pdf?utm_source=chatgpt.com)
 Available Data Appearance:
 ![image](https://github.com/user-attachments/assets/9614bfcc-9fe4-46d0-998d-8654357262bc)
 
 
-Use the United States Census to find the total population in each Pennsylvania town, and type the citizen for each year to analyze the main living population, and number of shrinking population.
+Use the United States Census to find the total population in each Pennsylvania town, and type the citizen for each year to analyze the main living population and number of shrinking population.
 Source: [United States Census](https://data.census.gov/)
 
 Data used:
 1. ACS Demographic and Housing Estimates
 Available Data Appearance:
+In the data table, we can check the sex, age, and any other details that relate to town citizen.
 ![image](https://github.com/user-attachments/assets/5ca7eca4-3f05-425f-962a-911e907b53c3)
 
 2. Selected Housing Characteristics
+To see how many units of housing for each town Homeowner vacancy rate and any other usable data to check the density for each town
 ![image](https://github.com/user-attachments/assets/3a2af74c-d65a-45d3-adf4-4d2dc28f1275)
 
 Use the Pennsylvania Department of Education to find out the enrollment rate for each town.
 Source: [Pennsylvania Department of Education](https://www.pa.gov/agencies/education.html)
 
-It provides data reports for enrollment. Can calculate the enrollment rate by the data from United States Census
+It provides data reports for enrollment from each school. Can calculate the enrollment rate by the data from the United States Census
 ![image](https://github.com/user-attachments/assets/70ffb6a4-bcec-482a-82f5-1edd67cb75e2)
 
 Use the Bureau of Labor Statistics to get the unemployment rate for each city in PA.
 Source: [Bureau of Labor Statistics](https://download.bls.gov/pub/time.series/la/)
+To get the PA's average unemployment rate for each year to check if unemployment is the factor that shrinks the population
+year: the year of data
+period: the month of data. i.e., M01 = January
+value: unemployment rate. i.e., 8.1 = 8.1%
+
+![image](https://github.com/user-attachments/assets/d455be80-d7bf-4f11-b562-fec7411be42e)
+
 
 Use the Uniform Crime Report System to calculate the safety score in each PA town.
 Source: [Uniform Crime Report System](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index)
 
+Get the clearance rate to check the safety score of PA's city/town
+![image](https://github.com/user-attachments/assets/fd66dacb-44da-493d-bfa6-f24101799ff5)
+
 
 # Method and medium
-I will use use Shorthand for the storytelling platform, combined with: 
-1. Tableau to initialize the table format
+I will use Shorthand for the storytelling platform, combined with: 
+1. Tableau & Flourish (generate map table if necessary) to initialize the table format
 2. Using [colab](https://colab.research.google.com/) to make the graphic design more specific.
-3. upload to github profile
+3. upload to Github profile
 
 Finally, a polished Shorthand page with embedded, interactive charts and visual storytelling will be completed
 ## References
