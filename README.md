@@ -29,13 +29,7 @@ Fun things: Red Hot Chili Pepper is my favorite band
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
-### Part 2: Working with Tableau
-[![Average Government Debt](https://public.tableau.com/static/images/1_/1_17425420608260/GeneralgovernmentdebtofGDP2023/1.png)]
-
-
-
-### Part 3: Create your own visualization
-[![Average Government Debt](https://public.tableau.com/static/images/1_/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023/1.png)](https://public.tableau.com/views/1_v2024_3_v2022_4/GeneralgovernmentdebtofGDP2023)
+[data viz examples](https://aa29zzjj.github.io/jerryh-online-portfolio/dataviz-examples) 
   
   
   
