@@ -1,30 +1,39 @@
 | [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Following the sketches and outline from Part I, I began constructing the actual narrative within Shorthand. The current draft incorporates interactive visualizations and data-driven storytelling based on the factors influencing Pennsylvania’s shrinking population.
 
-Text here!
+## Draft Visual Elements Included:
+Bar chart showing population trends in the top 5 shrinking towns (Tableau).
+
+Line graph depicting average annual salary per town.
+
+Horizontal bar chart of unemployment rates across towns.
+
+Stacked bar chart on public school enrollment changes.
+
+Safety score heat map derived from clearance rate data.
+
+Mood/tone visuals using color palettes of muted blues and grays to reflect decline and nostalgia.
+
+These visualizations aim to immerse the reader in the story of declining towns, making data digestible and emotionally resonant.
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+Residents of Pennsylvania (especially students and young professionals), state policymakers, and individuals interested in regional planning or demographic trends.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+The purpose of my interview script is to determine whether audiences can understand the core issue behind Pennsylvania's shrinking population.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                                                                  | Questions to Ask                                       |
+|-----------------------------------------------------------------------|--------------------------------------------------------|
+|To understand what does audience feels when looking at the visuals     |How do you feel when you see these data visuals?        |
+|To see if there is any improvement for the story                       |What do you think to make the story better?             |
+|To check if the audience gets the thing I want to present                   |What is the first information you get from the visuals? |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -55,10 +64,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
