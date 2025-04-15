@@ -1,22 +1,35 @@
 | [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Wireframes/storyboards
 Following the sketches and outline from Part I, I began constructing the actual narrative within Shorthand. The current draft incorporates interactive visualizations and data-driven storytelling based on the factors influencing Pennsylvania’s shrinking population.
+storyboards: [Pennsylvania Top 5 Shrinking County](https://preview.shorthand.com/3sZ9bq2X7uzEY8yR)
 
 ## Draft Visual Elements Included:
-Bar chart showing population trends in the top 5 shrinking towns (Tableau).
+### Line graph showing the total population of Pennsylvania from 2017 to 2023.
+[Pennsylvania Total Population (2017–2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet1)
+![image](https://github.com/user-attachments/assets/9b41c0d6-a7db-4aa0-8bdd-be980e0007e7)
 
-Line graph depicting average annual salary per town.
+### Line graph showing the top 5 population-shrinking counties in Pennsylvania from 2017 to 2023.
+[Top 5 Population Shrinking County (2017-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet2)
+![image](https://github.com/user-attachments/assets/4cc52911-ab2c-4a6f-bd8f-2373edb77b7d)
 
-Horizontal bar chart of unemployment rates across towns.
+### Tree Map of average annual salary for Top 5 shrinking counties.
+[Top 5 Population Shrinking County (2017-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet2)
+![image](https://github.com/user-attachments/assets/13d10733-64bb-4501-8d0e-2162193f803f)
 
-Stacked bar chart on public school enrollment changes.
+### Line graph on college-educated rate for each county from 2020 to 2023.
+[Top 5 Population Shrinking County (2017-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet2)
+![image](https://github.com/user-attachments/assets/5cd221ea-8329-481a-9023-353c4541a8bd)
 
-Safety score heat map derived from clearance rate data.
+### Line graph on college-educated rate for each county from 2020 to 2023.
+[Unemployment Rate for Top 5 Pennsylvania Shrinking Population County (2020-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/Pennsylvaniainfo/Sheet3)
+![image](https://github.com/user-attachments/assets/0b900855-a18f-4ea9-9471-a3997b898a98)
 
-Mood/tone visuals using color palettes of muted blues and grays to reflect decline and nostalgia.
+### Bar chart on offense count for each county from 2020 to 2023
+[Offense Count for Top 5 Pennsylvania Shrinking Population County (2020-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/Pennsylvaniainfo/Sheet4)
+![image](https://github.com/user-attachments/assets/f859bec5-220a-4723-8fcf-440f16c02c5c)
 
-These visualizations aim to immerse the reader in the story of declining towns, making data digestible and emotionally resonant.
+
 
 # User research 
 
