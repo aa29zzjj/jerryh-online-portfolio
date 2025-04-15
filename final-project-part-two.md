@@ -85,9 +85,12 @@ I learned that clarity and relevance are key in visual storytelling. In Part III
 
 
 ## References
-[Tableau Public](https://public.tableau.com/app/discover): Used for building up data visualization
-[Shorthand](https://shorthand.com/): Used for building up the storyboard
+1. [Tableau Public](https://public.tableau.com/app/discover): Used for building up data visualization
+2. [Shorthand](https://shorthand.com/): Used for building up the storyboard
+3. [United States Census](https://data.census.gov/): Provided data
+4. [Uniform Crime Report System](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index): Provided data
+5. [U.S.BUREAU OF LABOR STATISTIC](https://www.bls.gov/): Provided data
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to learn how to make the data visualization well, analysis, and check the grammar in story board
 
