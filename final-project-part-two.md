@@ -55,31 +55,38 @@ The purpose of my interview script is to determine whether audiences can underst
 
 | Questions                                        | Student 1                                                                                        | Student 2                          |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------|
-| How do you feel when you review my data visuals? | For the educated rate, I would say it is better to include the people who graduated from high school.| The topic of graph should be clear |
-| Do you get the thing I want to present?          | Yes, but I would say need to tell more about things related to strees part.                                |             |
-|                         |                                |             |
+| How do you feel when you review my data visuals? | For the education rate, I would say it is better to include the people who graduated from high school.| The topic of the graph should be clear |
+| Do you get the thing I want to present?          | Yes, but I would say the  line chart can be more clear.                                |Maybe you can compare the counties with increasing populations to see if there is a big difference?             |
+|If there is anything I can improve for the story. Please tell me                         | Can just focus on one crucial part                               | some graphs are not suitable for the story            |
 
+### Things that can be improved:
+1. The name of the graphic can be more simple and understandable to viewers
+2. The line chart looks kind of difficult to review, can be clearer so viewers will not misunderstand the graph
+3.  The education rate can be broader, people who graduated from high school are also counted as fully educated.
+4.  Unnecessary graphs, and things not related to the story should be removed
+5.  Can put the Top 5 increasing Pennsylvania counties to see the difference between the Top 5 shrinking counties.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+These are the things I would like to build for Part III:
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The education rate visual may be misleading—it doesn’t include high school graduates. | Broaden the education rate definition to include high school graduates and adjust the visualization. |
+| Some viewers found the line chart unclear or difficult to follow.    | Improve readability of the line chart by adding clear titles, labels, and perhaps switching to bar charts where helpful.    |
+| The graph titles are too technical or long.  | Simplify and clarify all graph titles to be more viewer-friendly and aligned with the story. |
+| Some charts were considered unnecessary or not aligned with the story.  | Review all visualizations and remove those not directly supporting the main narrative.    |
+| Compare only shrinking counties might lack context. | 	Add a comparison to Top 5 increasing counties to provide more meaningful contrast in the story.     |
+|Overall narrative felt broad—too many focuses. |	Refine story to focus on one or two key aspects, such as the relationship between salary and shrinkage.|
 
-> ...include any final thoughts you have here. 
 
-Text here!
+### Final Thoughts:
+I learned that clarity and relevance are key in visual storytelling. In Part III, I plan to streamline the narrative, focus on the shrinking counties vs. growing counties comparison, and ensure that all visual elements directly support the message. I also plan to revise chart types and titles to enhance viewer understanding.
 
 
 ## References
-_List any references you used here._
+[Tableau Public](https://public.tableau.com/app/discover): Used for building up data visualization
+[Shorthand](https://shorthand.com/): Used for building up the storyboard
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
