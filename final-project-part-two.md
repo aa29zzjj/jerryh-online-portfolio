@@ -2,7 +2,9 @@
 
 # Wireframes/storyboards
 Following the sketches and outline from Part I, I began constructing the actual narrative within Shorthand. The current draft incorporates interactive visualizations and data-driven storytelling based on the factors influencing Pennsylvania’s shrinking population.
-storyboards: [Pennsylvania Top 5 Shrinking County](https://preview.shorthand.com/3sZ9bq2X7uzEY8yR)
+
+
+## storyboards: [Pennsylvania Top 5 Shrinking County](https://preview.shorthand.com/3sZ9bq2X7uzEY8yR)
 
 ## Draft Visual Elements Included:
 ### Line graph showing the total population of Pennsylvania from 2017 to 2023.
@@ -15,10 +17,11 @@ storyboards: [Pennsylvania Top 5 Shrinking County](https://preview.shorthand.com
 
 ### Tree Map of average annual salary for Top 5 shrinking counties.
 [Top 5 Population Shrinking County (2017-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet2)
-![image](https://github.com/user-attachments/assets/13d10733-64bb-4501-8d0e-2162193f803f)
+![image](https://github.com/user-attachments/assets/ee46934a-4c2a-4545-97b8-190bac9ed9a4)
 
-### Line graph on college-educated rate for each county from 2020 to 2023.
-[Top 5 Population Shrinking County (2017-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet2)
+
+### Line graph on college-educated rate for each county in 2023.
+[2023 Average Annual Salary for Top 5 Shrinking Pennsylvania County](https://public.tableau.com/app/profile/jerry.huang4443/viz/Pennsylvaniainfo/Sheet1)
 ![image](https://github.com/user-attachments/assets/5cd221ea-8329-481a-9023-353c4541a8bd)
 
 ### Line graph on college-educated rate for each county from 2020 to 2023.
@@ -44,20 +47,17 @@ The purpose of my interview script is to determine whether audiences can underst
 |-----------------------------------------------------------------------|--------------------------------------------------------|
 |To understand what does audience feels when looking at the visuals     |How do you feel when you see these data visuals?        |
 |To see if there is any improvement for the story                       |What do you think to make the story better?             |
-|To check if the audience gets the thing I want to present                   |What is the first information you get from the visuals? |
+|To check if the audience gets the thing I want to present              |What is the first information you get from the visuals? |
 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                                        | Student 1                                                                                        | Student 2                          |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------|
+| How do you feel when you review my data visuals? | For the educated rate, I would say it is better to include the people who graduated from high school.| The topic of graph should be clear |
+| Do you get the thing I want to present?          | Yes, but I would say need to tell more about things related to strees part.                                |             |
+|                         |                                |             |
 
 
 # Identified changes for Part III
