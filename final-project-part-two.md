@@ -1,5 +1,6 @@
 | [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+Note: I have revise some part in Part I to make the direction straight.
 # Wireframes/storyboards
 Following the sketches and outline from Part I, I began constructing the actual narrative within Shorthand. The current draft incorporates interactive visualizations and data-driven storytelling based on the factors influencing Pennsylvania’s shrinking population.
 
