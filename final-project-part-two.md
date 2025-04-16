@@ -8,6 +8,7 @@ Following the sketches and outline from Part I, I began constructing the actual 
 ## storyboards: [Pennsylvania Top 5 Shrinking County](https://preview.shorthand.com/3sZ9bq2X7uzEY8yR)
 
 ## Draft Visual Elements Included:
+Note: all the graph is built by [Tableau public](https://public.tableau.com/app/discover)
 ### Line graph showing the total population of Pennsylvania from 2017 to 2023.
 [Pennsylvania Total Population (2017–2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet1)
 ![image](https://github.com/user-attachments/assets/9b41c0d6-a7db-4aa0-8bdd-be980e0007e7)
