@@ -18,18 +18,49 @@ After the interview for Part II, I received the feed back from my teammates. The
 | Compare only shrinking counties might lack context. | 	Add a comparison to Top 5 increasing counties to provide more meaningful contrast in the story.     |
 |Overall narrative felt broad—too many focuses. |	Refine story to focus on one or two key aspects, such as the relationship between salary and shrinkage.|
 
-text here!
+After reviewing feedback from Part II and analyzing audience interviews, several critical changes were made to improve clarity, focus, and narrative coherence:
+
+1. Expanded Education Definition
+In response to comments about the limited definition of "education rate," I revised the education visuals to include high school graduates, not just college-educated individuals. This gives a more accurate representation of the educational landscape in shrinking counties.
+
+2. Improved Line Chart Readability
+Many viewers found the original line chart hard to interpret. I redesigned it using simplified labeling, bolded year markers, and more distinct color separation. In some cases, I replaced line charts with bar charts for a more digestible format.
+
+3. Simplified Graph Titles
+Technical or overly long chart titles were revised to be more accessible and story-aligned. For example, “2020–2023 Unemployment Rate for Top 5 Shrinking Counties” became “Jobless Trends in Pennsylvania’s Shrinking Counties.”
+
+4. Refined Focus: Shrinking vs. Growing Counties
+To provide context, I introduced a comparative element: the top 5 counties that are growing in population. This contrast enhances understanding of what factors contribute to growth vs. decline and helps anchor the shrinking counties within a broader state narrative.
+
+5. Removed Less-Relevant Visuals
+Based on audience feedback, I removed some redundant or off-topic visuals to reduce noise and strengthen the central message. Every remaining visual now supports one of the core questions driving the project.
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The primary audience for this story includes:
 
-Text here!
+1. Pennsylvania residents, especially young adults, recent graduates, and local homeowners
+
+2. Policy makers and urban planners concerned with demographic trends
+
+3. Educators and researchers exploring the intersection of education, economy, and migration
+
+Audience interviews were crucial in shaping this project. For example, one viewer suggested incorporating the growing counties as a reference point, which led to a more balanced story. Another suggested simplifying the charts and ensuring that titles were easily digestible — changes that were fully incorporated.
+
+These insights helped me focus not only on data accuracy but also on story accessibility — making sure people from all backgrounds can understand why this matters and what it means for their communities.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+Throughout the project, I made several key design decisions that shaped the visual and narrative direction of the story:
 
-Text here!
+Chart Types: Used a mix of bar charts, tree maps, and line graphs for variety and clarity. Where possible, interactive Tableau visualizations were embedded for user-driven exploration.
+
+Color Palette: Opted for a consistent palette (blues for stable/growing indicators, reds for decline) to maintain visual coherence and draw attention to shrinking metrics.
+
+Narrative Structure: Reorganized the story to start with a macro view of PA's total population, zoom into shrinking counties, and conclude with policy-related suggestions and contrasts with growing counties.
+
+Medium: Final storytelling was built in Shorthand to balance text, visual, and interactive storytelling. All graphs were created using Tableau Public, and raw data cleaning and aggregation were done using Python (Colab).
+
+Accessibility: Titles, captions, and axis labels were rewritten for clarity. Tooltips were included in Tableau to assist viewers exploring the data.
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
@@ -40,8 +71,17 @@ Text here!
 Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+This project was both personally meaningful and technically challenging. Having lived in Pennsylvania throughout my college and master’s journey, I’ve seen firsthand how some towns flourish while others quietly fade. I’m proud of how the final story evolved — from a broad, data-heavy exploration to a clearer, audience-driven narrative that balances empathy with analysis.
 
-Text here!
+If I had more time, I would’ve liked to:
+
+1. Conduct interviews with residents in shrinking counties
+
+2. Incorporate migration data from IRS or moving companies
+
+3. Add a predictive model for future county-level changes
+
+Overall, I learned the importance of focus, audience empathy, and visual clarity. I hope this story not only informs but also sparks reflection among those who call Pennsylvania home.
+
 
 
