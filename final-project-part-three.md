@@ -7,6 +7,8 @@ Text here!
 
 # Changes made since Part II
 
+After the interview for Part II, I received the feed back from my teammates. The table shows the potential changes that I expect to do previously:
+
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The education rate visual may be misleading—it doesn’t include high school graduates. | Broaden the education rate definition to include high school graduates and adjust the visualization. |
