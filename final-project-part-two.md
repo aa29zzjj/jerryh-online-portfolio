@@ -1,4 +1,4 @@
-| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 Note: I have revise some part in Part I to make the direction straight.
 # Wireframes/storyboards
