@@ -20,20 +20,17 @@ After the interview for Part II, I received the feed back from my teammates. The
 
 After reviewing feedback from Part II and analyzing audience interviews, several critical changes were made to improve clarity, focus, and narrative coherence:
 
-1. **Expanded Education Definition**
-In response to comments about the limited definition of "education rate," I revised the education visuals to include high school graduates, not just college-educated individuals. This gives a more accurate representation of the educational landscape in shrinking counties.
-
-2. **Improved Line Chart Readability**
+1. **Improved Data Visualization's Readability**
 Many viewers found the original line chart hard to interpret. I redesigned it using simplified labeling, bolded year markers, and more distinct color separation. In some cases, I replaced line charts with bar charts for a more digestible format.
 
-3. **Simplified Graph Titles**
+2. **Simplified Graph Titles**
 Technical or overly long chart titles were revised to be more accessible and story-aligned. For example, “2020–2023 Unemployment Rate for Top 5 Shrinking Counties” became “Jobless Trends in Pennsylvania’s Shrinking Counties.”
 
-4. **Refined Focus: Shrinking vs. Growing Counties**
+3. **Refined Focus: Shrinking vs. Growing Counties**
 To provide context, I introduced a comparative element: the top 5 counties that are growing in population. This contrast enhances understanding of what factors contribute to growth vs. decline and helps anchor the shrinking counties within a broader state narrative.
 
-5. **Removed Less-Relevant Visuals**
-Based on audience feedback, I removed some redundant or off-topic visuals to reduce noise and strengthen the central message. Every remaining visual now supports one of the core questions driving the project.
+4. **Removed Less-Relevant Visuals**
+Based on audience feedback, it seems like non-relative data visualization, such as average salary for PA counties, is not valuable to the audience since it doesn't have any meaning for the stories. Besides, although education may be a factor that causes the population to shrink, it is not a good explanation since everyone has different thoughts on "educated". For example, are people who graduated from high school counted as educated? This will lead to another argument that who people are defined as educated people. Thus, these kinds of tables should be removed.
 
 
 ## The audience
@@ -47,28 +44,49 @@ The primary audience for this story includes:
 
 Audience interviews were crucial in shaping this project. For example, one viewer suggested incorporating the growing counties as a reference point, which led to a more balanced story. Another suggested simplifying the charts and ensuring that titles were easily digestible — changes that were fully incorporated.
 
-These insights helped me focus not only on data accuracy but also on story accessibility — making sure people from all backgrounds can understand why this matters and what it means for their communities.
+These insights helped me focus not only on data accuracy but also on story accessibility, making sure people from all backgrounds can understand why this matters and what it means for their communities.
 
 ## Final design decisions
 Throughout the project, I made several key design decisions that shaped the visual and narrative direction of the story:
 
-**Chart Types:** Used a mix of bar charts, tree maps, and line graphs for variety and clarity. Where possible, interactive Tableau visualizations were embedded for user-driven exploration.
+**Chart Types:** Used a mix of bar charts on the offense count and the Top 5 population increase/decrease counties in PA.
 
-**Color Palette:** Opted for a consistent palette (blues for stable/growing indicators, reds for decline) to maintain visual coherence and draw attention to shrinking metrics.
+**Color Palette:** For population increase/decrease in each PA county, opted for a consistent palette (green for stable/growing indicators, reds for decline) to maintain visual coherence and draw attention to shrinking metrics. For offense count, use blue gradient on Top 5 increasing PA counties and use orange gradient on Top 5 decreasing PA counties.
 
-**Narrative Structure:** Reorganized the story to start with a macro view of PA's total population, zoom into shrinking counties, and conclude with policy-related suggestions and contrasts with growing counties.
+**Narrative Structure:** I changed my story to strictly focus on the relationship between population shrinking and safety. In the beginning, I use PA's population data visualization to point out that PA is shrinking in the year of 2023, then start looking at the Top 5 increasing/decreasing counties. Finally, show the comparison of offense count for these 2 types of counties to point out that safety is the core factor that causes people to leave the counties. By doing so, the  audience can easily follow the stories and directly get the purpose I want to present by these tables. 
 
-**Medium:** Final storytelling was built in Shorthand to balance text, visual, and interactive storytelling. All graphs were created using Tableau Public, and raw data cleaning and aggregation were done using Python (Colab).
+**Medium:** Final storytelling was built in Shorthand to balance text, visual, and interactive storytelling. All graphs were created using Tableau Public.
 
-**Accessibility:** Titles, captions, and axis labels were rewritten for clarity. Tooltips were included in Tableau to assist viewers exploring the data.
+**Accessibility:** Titles, captions, and axis labels were rewritten for clarity, and I have added the average line for the audience to see the big difference between these 2 types of PA counties.
+
+## Adjusted Graph
+**Line graph on PA population in from 2017 to 2023**
+[Pennsylvania Total Population (2017–2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/PennsylvaniaTotalPopulation/Sheet1)
+![image](https://github.com/user-attachments/assets/a326f7b8-84b8-4fac-b61b-a5a13cda3ece)
+
+**Bar char on Top 5 increas/decreas population counties in PA**
+[Top 5 Gaining & Losing Counties in PA (2017–2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/Top5IncreasingShrinkingcounties/Sheet3)
+![image](https://github.com/user-attachments/assets/eaee8e8c-0081-43f3-95b6-40d96f171f80)
+
+**Bar chart on offense count for each county from 2020 to 2023**
+[Top 5 Pennsylvania Increasing Population Counties' Offense Count (2020-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/Top5IncreasingShrinkingcounties/Sheet2)
+![image](https://github.com/user-attachments/assets/3716d74d-ee44-40c0-b9c7-f9b7b75ccab2)
+
+**Bar chart on offense count for each county from 2020 to 2023**
+[Top 5 Pennsylvania Shrinking Population County's Offense Count (2020-2023)](https://public.tableau.com/app/profile/jerry.huang4443/viz/Pennsylvaniainfo/Sheet4)
+![image](https://github.com/user-attachments/assets/616f9c03-bc52-46b3-b27a-4edc71157688)
+
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+1. [Tableau Public](https://public.tableau.com/app/discover): Used for building up data visualization
+2. [Shorthand](https://shorthand.com/): Used for building up the storyboard
+3. [United States Census](https://data.census.gov/): Provided data
+4. [Uniform Crime Report System](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index): Provided data
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used ChatGPT to learn how to make the data visualization well, re-design the story structure, analyze, and check the grammar in the story storyboard
 
 # Final thoughts
 This project was both personally meaningful and technically challenging. Having lived in Pennsylvania throughout my college and master’s journey, I’ve seen firsthand how some towns flourish while others quietly fade. I’m proud of how the final story evolved — from a broad, data-heavy exploration to a clearer, audience-driven narrative that balances empathy with analysis.
