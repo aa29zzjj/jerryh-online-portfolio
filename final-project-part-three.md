@@ -7,8 +7,16 @@ Text here!
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| The education rate visual may be misleading—it doesn’t include high school graduates. | Broaden the education rate definition to include high school graduates and adjust the visualization. |
+| Some viewers found the line chart unclear or difficult to follow.    | Improve readability of the line chart by adding clear titles, labels, and perhaps switching to bar charts where helpful.    |
+| The graph titles are too technical or long.  | Simplify and clarify all graph titles to be more viewer-friendly and aligned with the story. |
+| Some charts were considered unnecessary or not aligned with the story.  | Review all visualizations and remove those not directly supporting the main narrative.    |
+| Compare only shrinking counties might lack context. | 	Add a comparison to Top 5 increasing counties to provide more meaningful contrast in the story.     |
+|Overall narrative felt broad—too many focuses. |	Refine story to focus on one or two key aspects, such as the relationship between salary and shrinkage.|
 
-Text here!
+
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
