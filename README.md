@@ -42,8 +42,8 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Telling Story with Data - Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Part II](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-two)
+[Part III](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-three)
 
 
 
