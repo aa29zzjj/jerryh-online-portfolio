@@ -1,9 +1,7 @@
 | [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[What Makes Pennsylvania Shrinking?](https://preview.shorthand.com/3bqWJpiT35O44aoA)
 
 # Changes made since Part II
 
