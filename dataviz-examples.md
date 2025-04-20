@@ -1,4 +1,4 @@
-| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](https://aa29zzjj.github.io/jerryh-online-portfolio/dataviz-examples) | [critique by design](https://aa29zzjj.github.io/jerryh-online-portfolio/critique-by-design) | [final project I](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-one) | [final project II](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-two) | [final project III](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-three) |
 
 ## Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
 ### Part 2: Working with Tableau
