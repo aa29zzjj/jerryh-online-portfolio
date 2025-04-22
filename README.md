@@ -26,7 +26,6 @@ Fun things: Red Hot Chili Pepper is my favorite band
 # Portfolio
 
 # Assignment:
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Telling Story with Data - Assignment 1 - Working with Tableau: Visualizing Government Debt: 
 [data viz examples](https://aa29zzjj.github.io/jerryh-online-portfolio/dataviz-examples) 
