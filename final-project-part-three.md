@@ -1,11 +1,11 @@
-| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://aa29zzjj.github.io/jerryh-online-portfolio/) | [data viz examples](https://aa29zzjj.github.io/jerryh-online-portfolio/dataviz-examples) | [critique by design](https://aa29zzjj.github.io/jerryh-online-portfolio/critique-by-design) | [final project I](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-one) | [final project II](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-two) | [final project III](https://aa29zzjj.github.io/jerryh-online-portfolio/final-project-part-three) |
 
 # The final data story
 [What Makes Pennsylvania Shrinking?](https://preview.shorthand.com/3bqWJpiT35O44aoA)
 
 # Changes made since Part II
 
-After the interview for Part II, I received the feed back from my teammates. The table shows the potential changes that I expect to do previously:
+After the interview for Part II, I received feedback from my teammates. The table shows the potential changes that I expect to do previously:
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -13,8 +13,8 @@ After the interview for Part II, I received the feed back from my teammates. The
 | Some viewers found the line chart unclear or difficult to follow.    | Improve readability of the line chart by adding clear titles, labels, and perhaps switching to bar charts where helpful.    |
 | The graph titles are too technical or long.  | Simplify and clarify all graph titles to be more viewer-friendly and aligned with the story. |
 | Some charts were considered unnecessary or not aligned with the story.  | Review all visualizations and remove those not directly supporting the main narrative.    |
-| Compare only shrinking counties might lack context. | 	Add a comparison to Top 5 increasing counties to provide more meaningful contrast in the story.     |
-|Overall narrative felt broad—too many focuses. |	Refine story to focus on one or two key aspects, such as the relationship between salary and shrinkage.|
+| Comparing only shrinking counties might lack context. | 	Add a comparison to Top 5 increasing counties to provide more meaningful contrast in the story.     |
+|Overall narrative felt broad—too many focuses. |	Refine the story to focus on one or two key aspects, such as the relationship between salary and shrinkage.|
 
 After reviewing feedback from Part II and analyzing audience interviews, several critical changes were made to improve clarity, focus, and narrative coherence:
 
